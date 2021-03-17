@@ -1,0 +1,9 @@
+C:\Users\pc5\Documents\Visual Studio 2017\Projects\ejerciciosDiseño\FormsCalculadora\bin\Debug\FormsCalculadora.exe.config
+C:\Users\pc5\Documents\Visual Studio 2017\Projects\ejerciciosDiseño\FormsCalculadora\bin\Debug\FormsCalculadora.exe
+C:\Users\pc5\Documents\Visual Studio 2017\Projects\ejerciciosDiseño\FormsCalculadora\bin\Debug\FormsCalculadora.pdb
+C:\Users\pc5\Documents\Visual Studio 2017\Projects\ejerciciosDiseño\FormsCalculadora\obj\Debug\FormsCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\pc5\Documents\Visual Studio 2017\Projects\ejerciciosDiseño\FormsCalculadora\obj\Debug\FormsCalculadora.Form1.resources
+C:\Users\pc5\Documents\Visual Studio 2017\Projects\ejerciciosDiseño\FormsCalculadora\obj\Debug\FormsCalculadora.Properties.Resources.resources
+C:\Users\pc5\Documents\Visual Studio 2017\Projects\ejerciciosDiseño\FormsCalculadora\obj\Debug\FormsCalculadora.csproj.GenerateResource.Cache
+C:\Users\pc5\Documents\Visual Studio 2017\Projects\ejerciciosDiseño\FormsCalculadora\obj\Debug\FormsCalculadora.exe
+C:\Users\pc5\Documents\Visual Studio 2017\Projects\ejerciciosDiseño\FormsCalculadora\obj\Debug\FormsCalculadora.pdb
